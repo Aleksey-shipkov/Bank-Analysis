@@ -27,4 +27,4 @@
 
 ## Стек
 
-`pandas`, `seaborn`` 
+`pandas`, `seaborn` 
